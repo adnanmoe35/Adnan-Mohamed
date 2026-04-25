@@ -18,43 +18,65 @@ This portfolio highlights projects that demonstrate data cleaning, querying, ana
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-## 1. Sales Data Analysis with SQL
+## 1. Edmonton Real Estate Market Analysis Dashboard
+
+**Tools Used:** Power BI, Excel, Data Modeling
+
+Interactive dashboard analyzing Edmonton housing market trends, pricing patterns, stale listings, and community performance. This project transforms housing data into business insights for decision-makers, investors, and real estate professionals.
+
+### Key Highlights:
+
+- 118K+ stale listings analyzed
+- 34% stale listing rate
+- Community market staleness mapping
+- Price vs community median comparison
+- Average expectation gap by community
+- Price per square foot analysis
+- Property type and bedroom performance
+- Days on market by community
+
+📄 **View Full Dashboard PDF:** `Real Esatate Market Analysis Dashboard.pdf`
+
+:contentReference[oaicite:0]{index=0}
+
+---
+
+## 2. Sales Data Analysis with SQL
 
 **Tools Used:** SQL Server, WideWorldImporters Database
 
-This project uses SQL to analyze sales performance, customer behavior, employee contribution, and product trends. Queries were written to extract insights that support business decision-making.
+This project uses SQL to analyze sales performance, customer behavior, employee contribution, and product trends.
 
 ### Key Highlights:
-- Identified customer purchasing trends over time
-- Evaluated employee performance using profit data
-- Analyzed product sales by category and color
-- Applied business rules such as pricing discounts
-- Used joins, aggregations, filtering, and subqueries
+
+- Identified customer purchasing trends
+- Evaluated employee profit performance
+- Applied pricing and discount rules
+- Used joins, subqueries, filtering, and aggregations
 
 
-## 2. Messy Dataset Cleaning with Python
+
+## 3. Messy Dataset Cleaning with Python
 
 **Tools Used:** Python, Pandas, Jupyter Notebook
 
-This project focuses on cleaning and preparing messy datasets for analysis. It demonstrates practical data wrangling skills often required in real-world analytics roles.
+This project focuses on cleaning and preparing messy datasets for analysis.
 
 ### Key Highlights:
+
 - Removed duplicates
 - Handled missing values
 - Standardized inconsistent formatting
 - Cleaned column names
-- Prepared data for reporting and analysis
-
+- Prepared data for analysis
 
 ## Career Focus
 
-I am currently seeking opportunities in:
+Currently seeking opportunities in:
 
 - Data Analyst
 - Business Analyst
 - Reporting Analyst
 - Operations Analyst
-
----
